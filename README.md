@@ -1,55 +1,66 @@
 # 👋 Hi, I'm Paul Kahara
 
-🎓 BSc Software Development student at KCA University
-💻 Python Developer | Backend & API Enthusiast
-🚀 Building practical projects with a focus on automation and AI
+💻 Python Developer | Backend Enthusiast
+🎓 BSc Software Development — KCA University
+🚀 Building practical projects and growing into AI & backend systems
 
 ---
 
-## 🔧 Tech Stack
+## 🔥 About Me
 
-* **Languages:** Python
-* **Backend:** Flask (learning & building)
+* 🧠 Currently focused on improving my Python and backend skills
+* 🛠️ Building hands-on projects to strengthen problem-solving
+* 🌱 Learning APIs, backend logic, and automation
+* 🎯 Goal: Become a job-ready software developer
+
+---
+
+## 🧰 Tech Stack
+
+* **Language:** Python
+* **Concepts:** Problem solving, structured programming
+* **Learning:** APIs, backend development (FastAPI), automation
 * **Tools:** Git, GitHub
-* **Concepts:** APIs, REST, backend logic, automation
 
 ---
 
-## 📂 Projects
+## 🚧 In Progress
 
-Here are some of the projects I’ve been working on:
+### 🤖 AI Chatbot Project
 
-### 🔹 [Project Name 1]
+* Building a chatbot using Python and API integration
+* Goal: Understand real-world AI applications and backend logic
 
-* Description: Briefly explain what it does
-* Tech: Python
-* What I learned: (e.g., working with APIs, structuring code)
+### 🌐 API-Based Project
 
-### 🔹 [Project Name 2]
-
-* Description: What problem it solves
-* Tech: Python
-* Focus: Logic building / problem solving
-
-👉 I am currently working on an **AI-powered chatbot project** using APIs to strengthen my backend and automation skills.
+* Learning how to fetch and use data from external APIs
+* Goal: Strengthen backend and data-handling skills
 
 ---
 
-## 📈 What I'm Improving
+## 📊 GitHub Stats
 
-* Building real-world projects using APIs
-* Backend development with Flask
-* AI & automation tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk90210\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pk90210)
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/pk90210
-* LinkedIn: [www.linkedin.com/in/paul-kahara-dev](http://www.linkedin.com/in/paul-kahara-dev)
+* 🔗 GitHub: https://github.com/pk90210
+* 💼 LinkedIn: https://www.linkedin.com/in/paul-kahara-dev
 
 ---
 
-## ⚡ Goal
+## ⚡ What I'm Working On
 
-To become a skilled software developer by building practical, real-world solutions and contributing to impactful tech projects.
+* Improving Python skills through real projects
+* Learning backend development with FastAPI
+* Exploring AI and automation
+
+---
+
+## 💡 Fun Fact
+
+I enjoy building projects that turn ideas into working solutions and help me grow as a developer.
