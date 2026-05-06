@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Paul Kahara
 
 💻 Python Developer | Backend Enthusiast
+
+
 🚀 Building practical projects and growing into AI & backend systems
 
 ---
